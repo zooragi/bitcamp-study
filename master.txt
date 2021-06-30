@@ -1,0 +1,6 @@
+hello
+apple
+banana
+orange
+lemon
+monkey

@@ -16,7 +16,10 @@
 
   1. 첫번째 단계에는 git repo 가 project 관리 폴더 이다.
   2. 두번째 단계에는 소스파일과 bytecode가 들어있는 .class파일을 분리한다.
-     ![img1](https://github.com/zooragi/bitcamp-study/blob/main/ref-image/3day/img1.PNG)
+     <img src="https://github.com/zooragi/bitcamp-study/blob/main/ref-image/3day/img1.PNG" width="300" height="300">
+
+     ![img1](https://github.com/zooragi/bitcamp-studyblob/main/ref-image/3day/img1.PNG)
+
   3. 세번째 단계에는 프로젝트 크기가 커짐에 따라 설정파일, 특정 개발에 사용되는 파일, 단위 테스트 관련 소스 및 설정 파일 등이 필요하게 되었다.
      ![img2](https://github.com/zooragi/bitcamp-study/blob/main/ref-image/3day/img2.PNG){: height = "30px" }
   4. 네번째 단계에는 세번째 단계에서는 프로젝트 하나만으로 구성되어있다면 네번째에서는 폴더 안에 여러 프로젝트들이 같이 있는 구조이다.
